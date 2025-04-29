@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open faq.html",
-            "file": "/Users/ujwalsingamsetti/Downloads/Fullstack-main/home-v2.html"
+            "name": "Open index.html",
+            "file": "/Users/ujwalsingamsetti/Downloads/Fullstack-main/index.html"
         }
     ]
 }
