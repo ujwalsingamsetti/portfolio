@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://ai-portfolio-theta-puce.vercel.app/$1",
+      "permanent": true
+    }
+  ]
+}
